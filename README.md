@@ -31,6 +31,7 @@ CurseForge est nécessaire pour télécharger et gérer le modpack.
 ## 3. Lancer le jeu
 
 1. Une fois l’installation terminée, cliquez sur **Jouer** via CurseForge.
+
    ![alt text](image-1.png)
 2. Assurez-vous que votre version de Minecraft est bien **modifiée** pour inclure le modpack.
 
